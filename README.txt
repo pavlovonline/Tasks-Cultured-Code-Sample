@@ -18,6 +18,7 @@ If the task has a location added, you will see the location. Hit the location ti
 
 Some main points:
 -This project heavily uses blocks/gcd/multi threading.
+-This project includes heavy modification of the standard UITableViewCell, done in code inside UITableViewController's cellForRow. The height is calculated dynamically based on the content of the tasks.
 -Tasks are stored in a noSQL cloud storage, which will make them accessible from Android, Windows phone, or via REST.
 -This was built pretty quickly in the past 2 days. If you want to see more of my work, please download V Nation on the App Store. 
 -You do need internet connection for this to work. If I put more time into it, these would be cached locally in Core Data/local disk.
