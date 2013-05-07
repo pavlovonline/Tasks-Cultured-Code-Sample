@@ -7,10 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1222D7DE173863FD009F3295 /* waitOverLay.png in Resources */ = {isa = PBXBuildFile; fileRef = 1222D7D7173863FD009F3295 /* waitOverLay.png */; };
-		1222D7DF173863FD009F3295 /* waitOverLay@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1222D7D8173863FD009F3295 /* waitOverLay@2x.png */; };
-		1222D7F2173869E4009F3295 /* waitOverLay.png in Resources */ = {isa = PBXBuildFile; fileRef = 1222D7EB173869E3009F3295 /* waitOverLay.png */; };
-		1222D7F3173869E4009F3295 /* waitOverLay@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1222D7EC173869E3009F3295 /* waitOverLay@2x.png */; };
 		1222D7F6173872E2009F3295 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1222D7F5173872E2009F3295 /* LoginViewController.m */; };
 		1222D7F91738730D009F3295 /* RegisterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1222D7F81738730D009F3295 /* RegisterViewController.m */; };
 		1222D7FD1738753B009F3295 /* MainTabBarControllerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1222D7FC1738753B009F3295 /* MainTabBarControllerViewController.m */; };
@@ -49,10 +45,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1222D7D7173863FD009F3295 /* waitOverLay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = waitOverLay.png; sourceTree = "<group>"; };
-		1222D7D8173863FD009F3295 /* waitOverLay@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "waitOverLay@2x.png"; sourceTree = "<group>"; };
-		1222D7EB173869E3009F3295 /* waitOverLay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = waitOverLay.png; sourceTree = "<group>"; };
-		1222D7EC173869E3009F3295 /* waitOverLay@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "waitOverLay@2x.png"; sourceTree = "<group>"; };
 		1222D7F4173872E2009F3295 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
 		1222D7F5173872E2009F3295 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
 		1222D7F71738730D009F3295 /* RegisterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegisterViewController.h; sourceTree = "<group>"; };
@@ -203,10 +195,6 @@
 				12F971CF173951E200BAF435 /* PlaceMapAnnotation.m */,
 				1222D7F4173872E2009F3295 /* LoginViewController.h */,
 				1222D7F5173872E2009F3295 /* LoginViewController.m */,
-				1222D7EB173869E3009F3295 /* waitOverLay.png */,
-				1222D7EC173869E3009F3295 /* waitOverLay@2x.png */,
-				1222D7D7173863FD009F3295 /* waitOverLay.png */,
-				1222D7D8173863FD009F3295 /* waitOverLay@2x.png */,
 				12F7355417382DE600893512 /* LookupAddPlaceViewController.h */,
 				12F7355517382DE600893512 /* LookupAddPlaceViewController.m */,
 				12F7355717382E0100893512 /* ResultLookupPlaceTableViewController.h */,
@@ -283,10 +271,6 @@
 				12ED640D1737E9E100C5FAC2 /* Default-568h@2x.png in Resources */,
 				12ED64101737E9E100C5FAC2 /* MainStoryboard_iPhone.storyboard in Resources */,
 				12ED64131737E9E100C5FAC2 /* MainStoryboard_iPad.storyboard in Resources */,
-				1222D7DE173863FD009F3295 /* waitOverLay.png in Resources */,
-				1222D7DF173863FD009F3295 /* waitOverLay@2x.png in Resources */,
-				1222D7F2173869E4009F3295 /* waitOverLay.png in Resources */,
-				1222D7F3173869E4009F3295 /* waitOverLay@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
